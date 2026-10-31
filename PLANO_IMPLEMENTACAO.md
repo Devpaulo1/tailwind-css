@@ -1,5 +1,8 @@
 # Plano de Implementação — Galeria Tailwind CSS + React
 
+> **Status:** implementado. Este documento registra o planejamento; o resultado
+> final está descrito no `README.md` e nos commits do repositório.
+>
 > Documento de trabalho. Não é entregável obrigatório da atividade; pode ser removido ao final.
 > Baseado em `AGENTS.md`, no estado real do repositório e nas referências visuais descritas (seção 5 do AGENTS.md).
 
