@@ -1,0 +1,32 @@
+export const kpis = [
+  {
+    id: 'receita',
+    label: 'Receita mensal',
+    value: 48320,
+    format: 'currency',
+    delta: 12.4,
+    direction: 'up',
+    comparison: 'vs. mês anterior',
+    series: [38, 52, 46, 61, 57, 70, 82],
+  },
+  {
+    id: 'usuarios',
+    label: 'Usuários ativos',
+    value: 2847,
+    format: 'number',
+    delta: 8.1,
+    direction: 'up',
+    comparison: 'vs. semana anterior',
+    series: [44, 48, 52, 49, 60, 66, 74],
+  },
+  {
+    id: 'conversao',
+    label: 'Taxa de conversão',
+    value: 3.2,
+    format: 'percent',
+    delta: 0.6,
+    direction: 'down',
+    comparison: 'vs. mês anterior',
+    series: [72, 68, 70, 62, 58, 54, 48],
+  },
+]
